@@ -48,11 +48,11 @@ Sou apaixonado por desenvolvimento de software, sempre buscando aprimorar minhas
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=luiz-andalecio&theme=github_dark" 
     height="160"
   />
-  <!-- Streak Stats -->
+  <!-- Streak Stats
   <img 
     src="https://streak-stats.demolab.com?user=luiz-andalecio&theme=github-dark-blue&hide_border=true&background=00000000" 
     height="170"
-  />
+  /> -->
 
   <!-- Most Used Languages
   <img 
