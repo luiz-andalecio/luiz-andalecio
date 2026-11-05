@@ -22,7 +22,15 @@ Gosto de desenvolver soluções que unam organização, boas práticas de progra
 
 ---
 
-<h3 align="center">Minhas Tecnologias e Ferramentas:</h3>
+<h3 align="center">Minhas Ferramentas:</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,idea" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=windows,linux,mint,debian,ubuntu" />
+</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,nodejs,express,prisma" />
@@ -33,15 +41,15 @@ Gosto de desenvolver soluções que unam organização, boas práticas de progra
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,mongodb" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,nginx" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,nginx" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=idea,vscode,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=postman,figma,photoshop" />
 </p>
 
 <p align="center">
